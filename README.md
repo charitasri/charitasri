@@ -1,5 +1,5 @@
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55660762-c858-4a1b-9239-4e143f216fa4/ddwsvqa-10718fd2-efde-4a3f-8ce7-99454f419e3d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU1NjYwNzYyLWM4NTgtNGExYi05MjM5LTRlMTQzZjIxNmZhNFwvZGR3c3ZxYS0xMDcxOGZkMi1lZmRlLTRhM2YtOGNlNy05OTQ1NGY0MTllM2QuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3Y3TYnf6B5E8yg9Nnls23UYJz401AeJrpki9xbMVGH4" width="100%" height="100%" />
-<h1 align="center">Hi 👋, I'm Charitasri</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">2nd-year student passionate about web development, AI, ML, and Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charitasri&label=Profile%20views&color=0e75b6&style=flat" alt="charitasri" /> </p>
