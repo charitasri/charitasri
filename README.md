@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **web development,AI,ML,Java**
 
-- 👯 I’m looking to collaborate on **web development**
+- 👯 I’m looking to collaborate on **web development,ML**
 
 - 💬 Ask me about **C,Python,Java**
 
